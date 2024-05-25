@@ -70,5 +70,3 @@ https://drive.google.com/file/d/1nrrx3bPCafz3fxwd4RPI9zI7dlDAs-ff/view?usp=shari
 4. The distribution of average temperatures shows a clear pattern.
 5. Box plots and heatmaps reveal variations in temperatures across different countries and years.
 ```
-
-This README file explains the purpose of the code, the required libraries, how to run the code, and includes placeholders for the generated figures. The figures will be saved as images in the same directory as the script when it is run.
