@@ -24,8 +24,11 @@ Email: yousafsahiwal3@gmail.com
    python eda_program.py
    ```
 
-## Dataset
+## Downlode Dataset
 The dataset contains global land temperatures by country, including average temperatures and other relevant information.
+dataset link:
+https://drive.google.com/file/d/1nrrx3bPCafz3fxwd4RPI9zI7dlDAs-ff/view?usp=sharing
+
 
 ## Code Explanation
 
@@ -49,16 +52,16 @@ The dataset contains global land temperatures by country, including average temp
 ## Generated Figures
 
 1. **Average Temperature Over Time in the United States**
-   ![Average Temperature Over Time in the United States](average_temperature_over_time_US.png)
+   ![iamproprogramr](average_temperature_over_time_US.png)
 
 2. **Distribution of Average Temperatures**
-   ![Distribution of Average Temperatures](distribution_of_average_temperatures.png)
+   ![iamproprogramr](distribution_of_average_temperatures.png)
 
 3. **Box Plot of Average Temperatures by Country**
-   ![Box Plot of Average Temperatures by Country](box_plot_by_country.png)
+   ![iamproprogramr](box_plot_by_country.png)
 
 4. **Heatmap of Average Temperatures for Top Countries Over Years**
-   ![Heatmap of Average Temperatures for Top Countries Over Years](heatmap_by_country.png)
+   ![iamproprogramr](heatmap_by_country.png)
 
 ## Insights Summary
 1. The dataset contains temperature records from the earliest date to the latest date in the dataset.
